@@ -4,7 +4,7 @@ addStreet,250,678, ,stable
 addTambol,400,678,San Pu Loei,stable
 addAmphoe,130,640,Doi Saket,stable
 addChangwat,350,640,Chiang Mai,stable
-Telephone,288,324,Telephone:,immutable
+Telephone,290,324,Telephone:,immutable
 phone,350,324,08 8915 4581,stable
-email label,312,300,Email:,immutable
+email label,311,300,Email:,immutable
 email,350,300,RLP1938@gmail.com,stable

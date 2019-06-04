@@ -1,16 +1,16 @@
 Written at,424,702,Chiang Mai,variable
-Surname,252,574,Parker,stable
-Firstname,415,573,Robert,stable
-Mr,139,553,X,stable
-Mrs,156,554,X,stable
-Miss,175,554,X,stable
-Middlename,110,539,Leonard,stable
-Age,290,539,80,age
-birthdayDay,372,539,22,stable
-birthmonthname,438,539,November,stable
-birthyear,520,539,1938,stable
-whereborn,122,504,Ivanhoe,stable
-nationality,440,504,Australian,stable
+Surname,252,572,Parker,stable
+Firstname,415,572,Robert,stable
+Mr,140,555, ,stable
+Mrs,156,555,X,stable
+Miss,175,555,X,stable
+Middlename,110,538,Leonard,stable
+Age,290,538,80,age
+birthdayDay,372,538,22,stable
+birthmonthname,438,538,November,stable
+birthyear,520,538,1938,stable
+whereborn,122,503,Ivanhoe,stable
+nationality,440,503,Australian,stable
 passportNumber,300,470,PA3967317,stable
 ppIssueDay,490,470,11,stable
 ppIssueMonth,110,436,April,stable
@@ -27,8 +27,8 @@ apdateMonth,400,659,May,variable
 apdateYear,500,659,2019,variable
 arrByType,170,367,Walked,variable
 arrFrom,330,367,Tachiliek,variable
-arrPort,130,333,Mae Sai,variable
-arrDateDayNo,333,333,26,variable
-arrDateMonName,400,333,April,variable
-arrDateYearNo,510,333,2019,variable
-tm6Number,270,300,TQ56617,variable
+arrPort,130,332,Mae Sai,variable
+arrDateDayNo,333,332,26,variable
+arrDateMonName,400,332,April,variable
+arrDateYearNo,510,332,2019,variable
+tm6Number,270,298,TQ56617,variable
