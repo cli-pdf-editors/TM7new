@@ -1,0 +1,34 @@
+Written at,424,702,Chiang Mai,variable
+Surname,252,574,Parker,stable
+Firstname,415,573,Robert,stable
+Mr,139,553,X,stable
+Mrs,156,554,X,stable
+Miss,175,554,X,stable
+Middlename,110,539,Leonard,stable
+Age,290,539,80,age
+birthdayDay,372,539,22,stable
+birthmonthname,438,539,November,stable
+birthyear,520,539,1938,stable
+whereborn,122,504,Ivanhoe,stable
+nationality,440,504,Australian,stable
+passportNumber,300,470,PA3967317,stable
+ppIssueDay,490,470,11,stable
+ppIssueMonth,110,436,April,stable
+ppIssueYear,210,436,2016,stable
+ppIssueCountryCode,290,436,AUS,stable
+ppExpiresDay,490,436,11,stable
+ppExpiresMonName,110,402,April,stable
+ppExpiresYearNo,210,402,2021,stable
+visatype,310,402,Tourist,stable
+extendDays,440,247,30,stable
+extensionReason,90,195,To spend more time with friends here.,variable
+apdateDay,335,659,24,variable
+apdateMonth,400,659,May,variable
+apdateYear,500,659,2019,variable
+arrByType,170,367,Walked,variable
+arrFrom,330,367,Tachiliek,variable
+arrPort,130,333,Mae Sai,variable
+arrDateDayNo,333,333,26,variable
+arrDateMonName,400,333,April,variable
+arrDateYearNo,510,333,2019,variable
+tm6Number,270,300,TQ56617,variable
