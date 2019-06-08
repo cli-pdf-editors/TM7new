@@ -1,34 +1,34 @@
 Written at Immigration Office,424,702,Chiang Mai,variable
-Surname,252,572,Parker,stable
-Firstname,415,572,Robert,stable
-Mr,140,555,_,stable
+Surname,252,572,Surname,stable
+Firstname,415,572,Firstname,stable
+Mr,140,555,X,stable
 Mrs,156,555,X,stable
 Miss,175,555,X,stable
-Middlename,110,538,Leonard,stable
-Age,290,538,80,age
-Birthday Day,372,538,22,stable
-Birthday Month Name,438,538,November,stable
-Birthday Year,520,538,1938,stable
-Place of Birth,122,503,Ivanhoe,stable
-Nationality,440,503,Australian,stable
-Passport Number,300,470,PA3967317,stable
-PP Issue Date Day,490,470,11,stable
-PP Issue Date Month,110,436,April,stable
-PP Issue Date Year,210,436,2016,stable
-PP Issue Country Code,290,436,AUS,stable
-PP Expiry Date Day No,490,436,11,stable
-PP Expiry Date Month Name,110,402,April,stable
-PP Expiry Date Year,210,402,2021,stable
+Middlename,110,538,Midname,stable
+Age,290,538,99,age
+Birthday Day,372,538,01,stable
+Birthday Month Name,438,538,January,stable
+Birthday Year,520,538,1970,stable
+Place of Birth,122,503,Where born,stable
+Nationality,440,503,My nationality,stable
+Passport Number,300,470,PP12348765,stable
+PP Issue Date Day,490,470,01,stable
+PP Issue Date Month,110,436,January,stable
+PP Issue Date Year,210,436,2000,stable
+PP Issue Country Code,290,436,ZZZ,stable
+PP Expiry Date Day No,490,436,01,stable
+PP Expiry Date Month Name,110,402,January,stable
+PP Expiry Date Year,210,402,2020,stable
 Visa type,310,402,Tourist,stable
 Days to extend,440,247,30,stable
 Reason for extension,90,195,To spend more time with friends here.,variable
 Application Date Day,335,659,10,variable
-Application Date Month,400,659,June,variable
+Application Date Month,400,659,January,variable
 Application Date Year,500,659,2019,variable
-Arrived by - type of transportation,170,367,Walked,variable
-Arrived from,330,367,Tachiliek,variable
-Port of arrival,130,332,Mae Sai,variable
-Arrived Date Day No,333,332,26,variable
+Arrived by - type of transportation,170,367,Air,variable
+Arrived from,330,367,Melbourne,variable
+Port of arrival,130,332,Bangkok,variable
+Arrived Date Day No,333,332,01,variable
 Arrived Date Month Name,400,332,June,variable
 Arrived Date Year No,510,332,2019,variable
 tm6Number,270,298,TQ54321,variable
