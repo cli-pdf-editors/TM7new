@@ -1,0 +1,13 @@
+name:tm7.pdf
+burst:tm7_001.pdf
+burst:tm7_002.pdf
+toedit:tm7_001.pdf
+toedit:tm7_002.pdf
+editor:/usr/bin/geany
+viewer:/usr/bin/atril
+datumL:10
+datumB:10
+datumT:835
+datumR:586
+scaleX:31.102
+scaleY:31.050
