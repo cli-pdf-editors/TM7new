@@ -1,0 +1,10 @@
+This application is written by,227.71,716,First Middle Last,stable
+Address No.,128,677,nnn/m Moo x,variable
+Road,253,677,_,variable
+Tambol-Khwaeng Subdistrict,399,677,San Pu Loei,variable
+Amphoe/Khet District,122,639.5,Doi Saket,variable
+Changwat Province,352,639.5,Chiang Mai,variable
+TelephoneNumber,260,320.50,Telephone Number:,immutable
+Phone - the number,339.68,320.50,08 1234 9876,stable
+EmailAddress,278,304.98,Email Address:,immutable
+Email - the address,339.68,304.98,someone@weehaa.com,stable

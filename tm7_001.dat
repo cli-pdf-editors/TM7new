@@ -1,0 +1,34 @@
+Written at,423.66,702.42,Chiang Mai,variable
+Date - day number,336.57,658.95,01,variable
+Month - name,398.78,658.95,July,variable
+Year - year number,495.19,658.95,2019,variable
+I Mr,140.63,554.5,_,stable
+I Mrs,156.18,554.5,X,stable
+I Miss,174.84,554.5,X,stable
+Family name,243.27,572,Surname,stable
+First name,414.33,572,Firstname,stable
+Middle name,103.3,537.85,Midname,stable
+Age years,283.7,537.85,99,variable
+Date of Birth,370.78,537.85,22,stable
+Month,429.88,537.85,November,stable
+Year,523.18,537.85,1970,stable
+Place of Birth,134.41,503.70,Per passport,stable
+Nationality,445.43,503.70,Australian,stable
+Passport or Travel Document,305.47,469.54,PA987654321,stable
+Date of Issue - day no,492.08,469.54,01,stable
+PP Month Name,103.31,436,January,stable
+PP Year No,212.16,436,1970,stable
+PP Issued at,289.92,436,XYZ per passport,stable
+Valid until date - day no,492.08,436,01,stable
+PP Valid to Month,103,401.23,January,stable
+PP Valid to Year,212,401.23,1970,stable
+Type of Visa,321,401.23,Tourist,stable
+Arrived by type of transportation,159,367,Walked Air,variable
+Arr From,337,367,Tachileik Kuala Lumpur Melbourne,variable
+Port of Arrival,134.41,332.92,Mae Sai Suvarnabhumi Bangkok Chiang Mai,variable
+POA Date - day no,336.57,332.92,01,variable
+POA Month name,398.78,332.92,January,variable
+POA Year number,507.63,332.92,1970,variable
+Arrival-Departure Card TM.6 No,258.82,298.77,TQ67333,variable
+I hereby apply for extension - days,429.88,245.98,30,variable
+Reasons of extension.,87.76,194.5,To spend more time with friends here.,variable
